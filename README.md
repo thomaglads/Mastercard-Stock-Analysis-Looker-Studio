@@ -1,6 +1,11 @@
 # Mastercard-Stock-Analysis-Looker-Studio
 An interactive dashboard analyzing Mastercard (MA) historical stock performance, built with Google Looker Studio
 # Mastercard (MA) Stock Analysis Dashboard
+## Live Dashboard Link
+**View the interactive dashboard here:** [Mastercard (MA) Stock Analysis Dashboard](https://lookerstudio.google.com/reporting/be4555c8-dd9a-4edc-b660-2ad7ba2ba906)
+
+## Data Source
+The historical stock data for Mastercard (MA) was obtained from Kaggle: [Mastercard Stock Data (Latest and Updated)](https://www.kaggle.com/datasets/kalilurrahman/mastercard-stock-data-latest-and-updated). The dataset encompasses daily open, high, low, and close (OHLC) prices, trading volume, dividend events, and stock split information. For this analysis, data from **May 25, 2006, to March 18, 2025,** was utilized.
 
 ## Objective
 To develop an interactive dashboard for analyzing the historical stock performance of Mastercard (MA). This dashboard aims to provide key insights into price trends, trading volumes, and important financial metrics.
