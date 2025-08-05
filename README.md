@@ -13,8 +13,8 @@ To develop an interactive dashboard for analyzing the historical stock performan
 
 
 ## Dashboard Screenshot
-*(![Screenshot 2025-05-30 224817](https://github.com/user-attachments/assets/8567b1c2-a0ed-4aad-9c0e-67c5a27923a3)
-)*
+![Screenshot 2025-05-30 224817](https://github.com/user-attachments/assets/8567b1c2-a0ed-4aad-9c0e-67c5a27923a3)
+
 
 
 ## Tools Used
